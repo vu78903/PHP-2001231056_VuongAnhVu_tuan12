@@ -1,0 +1,9 @@
+{
+    "name": "huit/schedule",
+    "description": "HUIT Schedule Management System",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^5.8",
+        "fakerphp/faker": "^1.24"
+    }
+}
